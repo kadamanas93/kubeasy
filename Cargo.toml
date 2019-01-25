@@ -1,0 +1,8 @@
+[package]
+name = "kubeasy"
+version = "0.1.0"
+authors = ["Anas Kadam <anaskadam@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.31.2"
